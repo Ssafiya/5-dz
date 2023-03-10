@@ -1,0 +1,14 @@
+@media screen and (max-width: 450px) {
+    .conteiner {
+      width: 30%;
+    }
+    .box_1 {
+      width: 30%;
+    }
+    .box_2{
+        width: 30%;
+    }
+    .box_3{
+        width: 30%;
+    }
+  }
